@@ -1,7 +1,7 @@
 import webbrowser
 import time
 
-'''This program creates a browser to open to indicate that it is time
+'''This program creates a browser to open a music video to indicate that it is time
 to take a break from the computer. I used the time and webbrowser module which
 was imported from the python built in standard library.
 '''
