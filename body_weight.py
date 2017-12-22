@@ -24,14 +24,12 @@ class BodyWeight():
 
 
 client_1 = BodyWeight(31,73)
-client_2 = BodyWeight()
+
 
 
 client_1.weight_lbs()
 client_1.weight_kg()
-print("\n")
-client_2.weight_lbs()
-client_2.weight_kg()
+
 
 
 
